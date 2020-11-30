@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Ziang's github stats](https://github-readme-stats.vercel.app/api?username=cuiziang)](https://github.com/cuiziang)
 
 <!--
